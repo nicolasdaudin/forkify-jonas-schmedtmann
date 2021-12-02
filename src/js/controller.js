@@ -144,6 +144,8 @@ const init = function () {
 };
 init();
 
+// problem upon deploy on Netlify
+// https://www.udemy.com/course/the-complete-javascript-course/learn/lecture/22649681#questions/15600366
 /* 
   1. TODO: [EASY] display number of pages between the pagination buttons
   2. TODO: [EASY] ability to sort search results by duration or number of ingrediemts (info not available in the search results by now, only title, image, key, publisher and id)
