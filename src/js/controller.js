@@ -140,6 +140,10 @@ const init = function () {
 };
 init();
 
+const newFeature = function () {
+  console.log('welcome to the app');
+};
+
 /* 
   1. TODO: [EASY] display number of pages between the pagination buttons
   2. TODO: [EASY] ability to sort search results by duration or number of ingrediemts (info not available in the search results by now, only title, image, key, publisher and id)
