@@ -151,7 +151,7 @@ const newFeature = function () {
   4. TODO: [EASY] Improve recipe ingredient input: separate in multiple fields and allow more than 6 ingrdients
   5. TODO: [MEDIUM] Shopping lis feature: button on recipe to add ingredients to a list. And then besides the bookmarks panel an other hidden panel with the list of ingredients (and the number + unit?()
   6. TODO: [MEDIUM] Weekly meal planning feature: assign recipes to the next 7 days and show on a weekly calendar. For example a simple drow down on the recipe to select a day and then besides the bookmarks panel, another hidden panel to show the 7 meals planned
-  7. TODO: [MEDIUM] get nutrition data on each ingredient from spoonacular API and calculate for example the total calories of recipe
+  7. TODO: [HARD] get nutrition data on each ingredient from spoonacular API and calculate for example the total calories of recipe
 
 
 
